@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004145376058",
+    "firebase_url": "https://flashchat-ed516.firebaseio.com",
+    "project_id": "flashchat-ed516",
+    "storage_bucket": "flashchat-ed516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004145376058:android:ce300f6849792387092e03",
+        "android_client_info": {
+          "package_name": "com.totabraz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004145376058-q0q7fp8qnlie5hmqbuchscq6qle4h201.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQuhHA8PRf1tngqROlnTYPn0xnbzxnWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004145376058-q0q7fp8qnlie5hmqbuchscq6qle4h201.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

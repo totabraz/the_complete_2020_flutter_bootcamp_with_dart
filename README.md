@@ -1,1 +1,1 @@
-the_complete_2020_flutter_bootcamp_with_dart
+the_complete_2020_flutter_dev_bootcamp_with_dart
